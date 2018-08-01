@@ -12,5 +12,7 @@
     { "key": "ctrl+w j",                "command": "workbench.action.navigateDown"},
     { "key": "ctrl+w k",                "command": "workbench.action.navigateUp"},
     { "key": "ctrl+l",                  "command": "workbench.action.nextEditor" },
-    { "key": "ctrl+h",                  "command": "workbench.action.previousEditor" }
+    { "key": "ctrl+h",                  "command": "workbench.action.previousEditor" },
+    { "key": "ctrl+shift+=",            "command": "workbench.action.increaseViewSize" },
+    { "key": "ctrl+shift+-",            "command": "workbench.action.decreaseViewSize" }
 ]
